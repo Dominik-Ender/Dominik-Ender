@@ -1,16 +1,41 @@
-## Hi there 👋
+# Dominik 👋
 
-<!--
-**Dominik-Ender/Dominik-Ender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Softwareentwickler | Java Enthusiast | Tech-Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Über mich
+Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und skalierbare Anwendungen, liebe sauberen Code und interessiere mich für moderne Software-Architekturen.
+
+- 💻 **Beruf**: Softwareentwickler
+- 🖥 **Technologien**: Java, Spring Boot, REST APIs, SQL, Git
+- 📚 **Lernen gerade**: Microservices, Cloud-Entwicklung, DevOps
+- 🎯 **Ziel**: Sauberen, wartbaren Code schreiben und mich kontinuierlich weiterentwickeln
+
+---
+
+## Skills
+| Kategorie        | Technologien |
+|-----------------|-------------|
+| Backend          | Java, Spring Boot, Hibernate, REST APIs |
+| Datenbanken      | MySQL, PostgreSQL |
+| Tools & Plattformen | Git, Maven, Docker, Linux |
+| Cloud & DevOps   | AWS Grundlagen, CI/CD Pipelines |
+
+---
+
+## Projekte
+- [Projektname 1](Link zum Repo) – kurze Beschreibung
+- [Projektname 2](Link zum Repo) – kurze Beschreibung
+- [Projektname 3](Link zum Repo) – kurze Beschreibung
+
+---
+
+## GitHub Stats
+![Dominiks GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## Kontakt
+- ✉️ Email: deine.email@example.com
+- 💼 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/deinprofil)
