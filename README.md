@@ -4,16 +4,6 @@ Software Engineer
 
 ---
 
-## About me
-Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und skalierbare Anwendungen, liebe sauberen Code und interessiere mich für moderne Software-Architekturen.
-
-- 💻 **Beruf**: Softwareentwickler
-- 🖥 **Technologien**: Java, Spring Boot, REST APIs, SQL, Git
-- 📚 **Lernen gerade**: Microservices, Cloud-Entwicklung, DevOps
-- 🎯 **Ziel**: Sauberen, wartbaren Code schreiben und mich kontinuierlich weiterentwickeln
-
----
-
 ## Skills
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 
@@ -21,6 +11,7 @@ Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und ska
 
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)
 
+https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg
 
 ---
 
