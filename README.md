@@ -24,10 +24,8 @@ Software Engineer
 
 ---
 
-## Projekte
-- [Projektname 1](Link zum Repo) – kurze Beschreibung
-- [Projektname 2](Link zum Repo) – kurze Beschreibung
-- [Projektname 3](Link zum Repo) – kurze Beschreibung
+## Projects
+- [Sorting Algorithm Visualization](https://github.com/Dominik-Ender/Sorting-Algorithm-Visualization)
 
 ---
 
