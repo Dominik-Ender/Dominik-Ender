@@ -11,7 +11,7 @@ Software Engineer
 
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)
 
-![svg].https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg).
+![svg].(https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg).
 
 ---
 
