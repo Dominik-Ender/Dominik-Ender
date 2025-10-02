@@ -4,6 +4,11 @@ Software Engineer
 
 ---
 
+## Projects
+- [Sorting Algorithm Visualization](https://github.com/Dominik-Ender/Sorting-Algorithm-Visualization)
+
+---
+
 ## Skills
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)
@@ -22,18 +27,4 @@ Software Engineer
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg)
 
----
 
-## Projects
-- [Sorting Algorithm Visualization](https://github.com/Dominik-Ender/Sorting-Algorithm-Visualization)
-
----
-
-## GitHub Stats
-![Dominiks GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dominik-Ender&show_icons=true&theme=radical)
-
----
-
-## Kontakt
-- ✉️ Email: deine.email@example.com
-- 💼 LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/deinprofil)
