@@ -1,10 +1,10 @@
-# Dominik 👋
+# Dominik
 
-Softwareentwickler | Java Enthusiast | Tech-Learner
+Software Engineer
 
 ---
 
-## Über mich
+## About me
 Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und skalierbare Anwendungen, liebe sauberen Code und interessiere mich für moderne Software-Architekturen.
 
 - 💻 **Beruf**: Softwareentwickler
@@ -15,12 +15,7 @@ Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und ska
 ---
 
 ## Skills
-| Kategorie        | Technologien |
-|-----------------|-------------|
-| Backend          | Java, Spring Boot, Hibernate, REST APIs |
-| Datenbanken      | MySQL, PostgreSQL |
-| Tools & Plattformen | Git, Maven, Docker, Linux |
-| Cloud & DevOps   | AWS Grundlagen, CI/CD Pipelines |
+[![My Skills](https://skillicons.dev/icons?i=c, java, gradle-dark, html, mongodb, postman, js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
@@ -32,7 +27,7 @@ Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und ska
 ---
 
 ## GitHub Stats
-![Dominiks GitHub Stats](https://github-readme-stats.vercel.app/api?username=DEIN_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Dominiks GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dominik-Ender&show_icons=true&theme=radical)
 
 ---
 
