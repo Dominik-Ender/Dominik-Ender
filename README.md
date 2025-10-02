@@ -15,7 +15,7 @@ Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und ska
 ---
 
 ## Skills
-(https://github.com/tandpfun/skill-icons/tree/main/icons/c.svg)
+![svg](https://github.com/tandpfun/skill-icons/tree/main/icons/c.svg)
 (https://github.com/tandpfun/skill-icons/tree/main/icons/cs.svg)
 (https://github.com/tandpfun/skill-icons/tree/main/icons/Gradle-Dark.svg)
 
