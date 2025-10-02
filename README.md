@@ -6,13 +6,9 @@ Software Engineer
 
 ## Skills
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
-
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)
-
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)
-
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
-
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
@@ -22,7 +18,6 @@ Software Engineer
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg)
-
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg)
