@@ -15,7 +15,10 @@ Ich bin Softwareentwickler mit Fokus auf **Java**. Ich entwickle robuste und ska
 ---
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c, java, gradle-dark, html, mongodb, postman, js,html,css,wasm)](https://skillicons.dev)
+(https://github.com/tandpfun/skill-icons/tree/main/icons/c)
+(https://github.com/tandpfun/skill-icons/tree/main/icons/cs)
+(https://github.com/tandpfun/skill-icons/tree/main/icons/Gradle-Dark)
+
 
 ---
 
