@@ -3,6 +3,8 @@
 Software Engineer
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Dominik-Ender&color=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ---
 
