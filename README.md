@@ -10,7 +10,7 @@ Software Engineer
 ---
 
 ## Skills
-![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg | width=25)
+![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg | 25)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
