@@ -3,10 +3,9 @@
 Software Engineer
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Dominik-Ender&color=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
----
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dominik%20Ender&fontSize=40&animation=fadeIn)
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Dominik-Ender&show_icons=true&theme=github_dark)
