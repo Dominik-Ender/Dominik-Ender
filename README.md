@@ -3,6 +3,7 @@
 ---
 
 [🎓 View my Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)
+<br>
 [🎓 View my LeetCode](https://leetcode.com/u/dominikender/)
 
 ---
