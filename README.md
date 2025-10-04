@@ -3,7 +3,7 @@
 ---
 
 ## Accounts
-- [Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)<br><br>
+- [Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)<br>
 - [LeetCode](https://leetcode.com/u/dominikender/)
 
 ---
