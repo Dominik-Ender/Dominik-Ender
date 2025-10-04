@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dominik%20Ender&textBg=false&fontSize=40&animation=fadeIn))
 
+---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Dominik-Ender&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dominik-Ender&theme=github-dark)
+[🎓 View my Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)
 
 ---
 
