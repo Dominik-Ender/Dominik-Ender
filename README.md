@@ -3,10 +3,10 @@
 ---
 
 ## Accounts
-[🎓 View my Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)
+[Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)
 <br>
 <br>
-[🎓 View my LeetCode Account](https://leetcode.com/u/dominikender/)
+[LeetCode](https://leetcode.com/u/dominikender/)
 
 ---
 
