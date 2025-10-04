@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dominik%20Ender&textBg=false&fontSize=40&animation=fadeIn))
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dominik%20Ender&textBg=false&fontSize=40&animation=fadeIn)
 
 ---
 
 [🎓 View my Microsoft Certification](https://learn.microsoft.com/en-us/users/dominik-7423)
+[🎓 View my LeetCode](https://leetcode.com/u/dominikender/)
 
 ---
 
