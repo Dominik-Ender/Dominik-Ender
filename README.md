@@ -1,9 +1,3 @@
-# Dominik
-
-Software Engineer
-
----
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dominik%20Ender&textBg=false&fontSize=40&animation=fadeIn))
 
 
