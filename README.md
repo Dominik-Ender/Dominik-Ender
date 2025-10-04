@@ -4,6 +4,15 @@ Software Engineer
 
 ---
 
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Dominik-Ender&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dominik-Ender&theme=github-dark)
+
+---
+
 ## Projects
 - [Sorting Algorithm Visualization](https://github.com/Dominik-Ender/Sorting-Algorithm-Visualization)
 
