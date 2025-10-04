@@ -4,7 +4,7 @@ Software Engineer
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dominik%20Ender&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Dominik%20Ender&textBg=false&fontSize=40&animation=fadeIn))
 
 
 ## 📊 GitHub Stats
