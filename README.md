@@ -10,7 +10,8 @@ Software Engineer
 ---
 
 ## Skills
-![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg | 25)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
@@ -26,5 +27,5 @@ Software Engineer
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg)
 ![svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg)
-
+</div>
 
